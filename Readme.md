@@ -24,7 +24,7 @@
 
 ## Использование для проверки
 
-1. link work
+1. https://github.com/Ask1509/-final_work_specialization_selection
 2. см.  [Diagram.drawio.png](Link)
 3. Данный текст находится в Readme.md
 4. Скомпилировать C# код из файла [Program.cs] (Link) 
