@@ -27,6 +27,6 @@
 1. https://github.com/Ask1509/-final_work_specialization_selection
 2. см.  [Diagram.drawio.png](https://github.com/Ask1509/-final_work_specialization_selection/blob/main/Diagram.drawio.png)
 3. Данный текст находится в Readme.md
-4. Скомпилировать C# код из файла [Program.cs] (Link) 
+4. Скомпилировать C# код из файла [Program.cs](https://github.com/Ask1509/-final_work_specialization_selection/blob/main/Programm/Program.cs) 
 Для проверки изменить инициализацию массива startingArray (строка 1)
 5. Использована простая струтура контроля версий "Git" с коммитами, без веток
